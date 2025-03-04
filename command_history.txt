@@ -27,3 +27,5 @@
 /reload
 /time set day
 /kubejs hand
+/kubejs reload client-scripts
+/reload
