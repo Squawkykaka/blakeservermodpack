@@ -42,3 +42,5 @@ servers.dat
 servers.dat_old
 icon.png
 /kubejs/config/probejs.json
+command_history.txt
+/downloads

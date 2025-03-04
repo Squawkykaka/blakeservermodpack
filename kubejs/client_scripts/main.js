@@ -16,8 +16,4 @@ RecipeViewerEvents.groupEntries("item", event => {
 
     event.group('#minecraft:chest_boats', "kubejs:chest_boats", "Chest Boats")
     event.group('#minecraft:boats', "kubejs:boats", "Boats")
-
-
-
-
 })
