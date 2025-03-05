@@ -1,31 +1,50 @@
-/kubejs list-tag minecraft:block
-/kubejs list-tag minecraft:item
-/kubejs list-tag minecraft:item c:armors
-/kubejs list-tag minecraft:item c:ores
-/kubejs list-tag minecraft:item c:ores/coal
-/kubejs list-tag minecraft:item c:ores/zinc
-/kubejs dump
-/kubejs dump registry
-/kubejs dump registry minecraft:chunk_status
-/kubejs generate-typings
 /reload
 /kubejs reload client-scripts
-/time set d
-/time set day
-/kubejs hand
 /reload
-/kubejs hand
-/reload
-/kubejs hand
-/reload
-/kubejs hand
-/probejs decompile
-/probejs lint
-/probejs dump
-/probejs decompile
-/probejs dump
-/reload
-/time set day
-/kubejs hand
 /kubejs reload client-scripts
 /reload
+/kubejs reload client-scripts
+/reload
+/kubejs reload client-scripts
+/reload
+/kubejs reload client-scripts
+/reload
+/kubejs reload client-scripts
+/reload
+/kubejs reload client-scripts
+/reload
+/time set day
+/kubejs hotbar
+/kubejs reload client-scripts
+/reload
+/kubejs reload client-scripts
+/reload
+/kubejs reload client-scripts
+/reload
+/kubejs reload client-scripts
+/reload
+/kubejs hotbar
+/reload
+/kubejs reload client-scripts
+/reload
+/kubejs reload client-scripts
+/reload
+/time set day
+/kubejs reload client-scripts
+/reload
+/kubejs reload client-scripts
+/reload
+/kubejs hand
+/reload
+/kubejs reload client-scripts
+/reload
+/kubejs reload client-scripts
+/reload
+/kubejs reload client-scripts
+/reload
+/kubejs reload client-scripts
+/reload
+/gamerule doWeatherCycle false
+/gamerule doDaylightCycle false
+/time set day
+/kubejs hand
