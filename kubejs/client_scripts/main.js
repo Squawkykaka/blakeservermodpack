@@ -1,22 +1,21 @@
 console.info('Hello, World! (Loaded client example script)')
 
 RecipeViewerEvents.groupEntries("item", event => {
-    event.group("#minecraft:decorated_pot_sherds", 'kubejs:pottery_sherd', "Pottery Sherd")
-    event.group("#minecraft:chest_armor", 'kubejs:chestplates', "Chestplates")
-    event.group("#minecraft:foot_armor", 'kubejs:boots', "Boots")
-    event.group("#minecraft:head_armor", 'kubejs:helmets', "Helmets")
-    event.group("#minecraft:leg_armor", 'kubejs:leggings', "Leggings")
-    event.group("#minecraft:trim_templates", 'kubejs:templates', "Smithing Templates")
-
+    event.group('#comforts:sleeping_bags', "kubejs:sleeping_bags", "Sleeping Bags")
+    event.group('#comforts:hammocks', "kubejs:hammocks", "Hammocks")
+    
     event.group("#waystones:waystones", 'kubejs:waystones', "Waystones")
     event.group("#waystones:sharestones", "kubejs:sharestones", "Sharestones")
     event.group('/_portstone$/', "kubejs:portstones", "Portstones")
 
     event.group('#minecraft:chest_boats', "kubejs:chest_boats", "Chest Boats")
     event.group('#minecraft:boats', "kubejs:boats", "Boats")
-
-    event.group('#comforts:sleeping_bags', "kubejs:sleeping_bags", "Sleeping Bags")
-    event.group('#comforts:hammocks', "kubejs:hammocks", "Hammocks")
+    event.group("#minecraft:decorated_pot_sherds", 'kubejs:pottery_sherd', "Pottery Sherd")
+    event.group("#minecraft:chest_armor", 'kubejs:chestplates', "Chestplates")
+    event.group("#minecraft:foot_armor", 'kubejs:boots', "Boots")
+    event.group("#minecraft:head_armor", 'kubejs:helmets', "Helmets")
+    event.group("#minecraft:leg_armor", 'kubejs:leggings', "Leggings")
+    event.group("#minecraft:trim_templates", 'kubejs:templates', "Smithing Templates")
 
     event.group('#minecraft:terracotta', "kubejs:terracotta", "Terracotta")
     event.group('#minecraft:wool', 'kubejs:wool', 'Wool')
@@ -31,7 +30,6 @@ RecipeViewerEvents.groupEntries("item", event => {
     event.group('#minecraft:candles', 'kubejs:candles', 'Candles')
     event.group('#c:dyes', 'kubejs:dyes', 'Dyes')
 
-    // This should show if the group is being correctly applied or not
     event.group("#c:shulker_boxes", 'kubejs:shulker_boxes', 'Shulker Boxes')
 
     event.group('/exposed_/', 'kubejs:exposed_copper', 'Exposed Copper')
@@ -54,16 +52,9 @@ RecipeViewerEvents.groupEntries("item", event => {
     event.group('#minecraft:stairs', "kubejs:stairs", "Stairs")
     event.group('#minecraft:fences', "kubejs:fences", "Fences")
     event.group('#minecraft:buttons', "kubejs:buttons", "Buttons")
-    // Fix, as this is a block tag
-    event.group('#minecraft:pressure_plates', "kubejs:pressure_plates", "Pressure Plates")
+    event.group('/pressure_plate/', "kubejs:pressure_plates", "Pressure Plates")
     event.group('#minecraft:planks', "kubejs:planks", "Planks")
-    event.group('#c:stripped_logs', "kubejs:stripped_logs", "Stripped Logs")
     event.group('#minecraft:logs', 'kubejs:logs', 'Logs')
-
-
-
-
-
 
     event.group(['minecraft:cut_copper', 'minecraft:copper_block', 'minecraft:chiseled_copper', 'minecraft:cut_copper_stairs', 'minecraft:cut_copper_slab', 'minecraft:waxed_copper_block', 'minecraft:waxed_chiseled_copper', 'minecraft:waxed_cut_copper', 'minecraft:waxed_cut_copper_stairs', 'minecraft:waxed_cut_copper_slab', 'minecraft:waxed_copper_grate', 'minecraft:copper_grate', 'minecraft:waxed_copper_trapdoor', 'minecraft:copper_trapdoor', 'minecraft:waxed_copper_door', 'minecraft:copper_door', 'minecraft:copper_bulb', 'minecraft:waxed_copper_bulb'], "kubejs:copper", "Copper")
 })
