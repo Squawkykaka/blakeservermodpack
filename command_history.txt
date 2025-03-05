@@ -1,39 +1,3 @@
-/reload
-/kubejs reload client-scripts
-/reload
-/kubejs reload client-scripts
-/reload
-/kubejs reload client-scripts
-/reload
-/kubejs reload client-scripts
-/reload
-/kubejs reload client-scripts
-/reload
-/kubejs reload client-scripts
-/reload
-/kubejs reload client-scripts
-/reload
-/time set day
-/kubejs hotbar
-/kubejs reload client-scripts
-/reload
-/kubejs reload client-scripts
-/reload
-/kubejs reload client-scripts
-/reload
-/kubejs reload client-scripts
-/reload
-/kubejs hotbar
-/reload
-/kubejs reload client-scripts
-/reload
-/kubejs reload client-scripts
-/reload
-/time set day
-/kubejs reload client-scripts
-/reload
-/kubejs reload client-scripts
-/reload
 /kubejs hand
 /reload
 /kubejs reload client-scripts
@@ -48,3 +12,39 @@
 /gamerule doDaylightCycle false
 /time set day
 /kubejs hand
+/kubejs reload client-scripts
+/reload
+/kubejs reload client-scripts
+/reload
+/kubejs reload client-scripts
+/reload
+/kubejs hotbar
+/kubejs reload client-scripts
+/reload
+/kubejs reload client-scripts
+/reload
+/kubejs inventory
+/kubejs reload client-scripts
+/reload
+/kubejs hand
+/kubejs reload client-scripts
+/reload
+/kubejs hand
+/kubejs reload client-scripts
+/reload
+/kubejs hand
+/kubejs reload client-scripts
+/reload
+/kubejs reload client-scripts
+/reload
+/kubejs reload client-scripts
+/reload
+/kubejs hand
+/kubejs reload client-scripts
+/reload
+/kubejs hand
+/kubejs reload client-scripts
+/reload
+/kubejs hand
+/kubejs reload client-scripts
+/reload
