@@ -43,6 +43,22 @@ RecipeViewerEvents.groupEntries("item", event => {
     
     event.group("ominous_bottle", "kubejs:ominous_bottle", "Ominous Bottles")
     event.group('#minecraft:rails', "kubejs:rails", "Rails")
+    event.group('#c:ores', "kubejs:ores", "Ores")
+    event.group('#minecraft:flowers', "kubejs:flowers", "Flowers")
+    event.group(["minecraft:dragon_egg", "minecraft:egg", "minecraft:turtle_egg", "minecraft:sniffer_egg"], "kubejs:eggs", "Eggs")
+    event.group("#c:ingots", "kubejs:ingots", "Ingots")
+    event.group("#c:buckets", "kubejs:buckets", "Buckets")
+    event.group("#minecraft:signs", "kubejs:signs", "Signs")
+    event.group("#minecraft:hanging_signs", "kubejs:hanging_signs", "Hanging Signs")
+    event.group("#c:foods", "kubejs:foods", "Foods")
+    event.group("#c:seeds", "kubejs:seeds", "Seeds")
+
+    event.group("/wooden/", "kubejs:wooden_tools", "Wooden Tools")
+    event.group(["minecraft:golden_hoe", "minecraft:golden_axe", "minecraft:golden_sword", "minecraft:golden_pickaxe", "minecraft:golden_axe", "minecraft:golden_shovel"], "kubejs:golden_tools", "Golden Tools")
+    event.group(["minecraft:stone_hoe", "minecraft:stone_axe", "minecraft:stone_sword", "minecraft:stone_pickaxe", "minecraft:stone_axe", "minecraft:stone_shovel"], "kubejs:stone_tools", "Stone Tools")
+    event.group(["minecraft:iron_hoe", "minecraft:iron_axe", "minecraft:iron_sword", "minecraft:iron_pickaxe", "minecraft:iron_axe", "minecraft:iron_shovel"], "kubejs:iron_tools", "Iron Tools")
+    event.group(["minecraft:diamond_hoe", "minecraft:diamond_axe", "minecraft:diamond_sword", "minecraft:diamond_pickaxe", "minecraft:diamond_axe", "minecraft:diamond_shovel"], "kubejs:diamond_tools", "Diamond Tools")
+    event.group(["minecraft:netherite_hoe", "minecraft:netherite_axe", "minecraft:netherite_sword", "minecraft:netherite_pickaxe", "minecraft:netherite_axe", "minecraft:netherite_shovel"], "kubejs:netherite_tools", "Netherite Tools")
 
     event.group('#minecraft:walls', "kubejs:walls", "Walls")
     event.group('#minecraft:doors', "kubejs:doors", "Doors")
