@@ -26,11 +26,14 @@
 	enableCooldowns = true
 	#List of warp requirements with comma-separated parameters in parentheses. Conditions can be defined as comma-separated list in square brackets. Will be applied in order.
 	warpRequirements = [
-	"[source_is_warp_plate] multiply_item_cost(minecraft:ender_eye, 0)",
-	"[is_within_distance(500)] multiply_item_cost(minecraft:ender_eye, 0)",
-	"add_item_cost(minecraft:ender_eye, 1)",
-	"[is_interdimensional] refuse('You are not allowed to warp to other dimensions.')"
+		"[source_is_warp_plate] multiply_item_cost(minecraft:ender_eye, 0)",
+		"[is_within_distance(500)] max_item_cost(minecraft:ender_eye, 0)",  # This should be a separate condition
+		"add_item_cost(minecraft:ender_eye, 1)",
+		"[is_interdimensional] refuse(You are not allowed to warp to other dimensions.)",
+		"max_xp_cost(0)",
+		"min_item_cost(minecraft:ender_eye, 0)"
 	]
+
 	#Set to ENABLED to have nearby pets teleport with you. Set to SAME_DIMENSION to have nearby pets teleport with you only if you're not changing dimensions. Set to DISABLED to disable.
 	#Allowed Values: ENABLED, SAME_DIMENSION, DISABLED
 	transportPets = "SAME_DIMENSION"
