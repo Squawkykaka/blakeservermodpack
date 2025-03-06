@@ -28,6 +28,7 @@ resourcepacks/
 /xaero*
 /Xaero*
 /node_modules/
+/cache
 
 
 patchouli_data.json
