@@ -28,10 +28,8 @@
 	warpRequirements = [
 	"[source_is_warp_plate] multiply_item_cost(minecraft:ender_eye, 0)",
 	"[is_within_distance(500)] multiply_item_cost(minecraft:ender_eye, 0)",
-	"[is_not_within_distance(500)] scaled_add_item_cost(distance, minecraft:ender_eye, 0.005)",
-	"[is_interdimensional] add_item_cost(minecraft:ender_eye, 2)",
-	"min_item_cost(minecraft:ender_eye, 1)",
-	"max_item_cost(minecraft:ender_eye, 5)"
+	"add_item_cost(minecraft:ender_eye, 1)",
+	"[is_interdimensional] refuse('You are not allowed to warp to other dimensions.')"
 	]
 	#Set to ENABLED to have nearby pets teleport with you. Set to SAME_DIMENSION to have nearby pets teleport with you only if you're not changing dimensions. Set to DISABLED to disable.
 	#Allowed Values: ENABLED, SAME_DIMENSION, DISABLED
