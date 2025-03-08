@@ -4,7 +4,7 @@
         "1.21.1"
     ],
     "loaders": {
-        "neoforge": ""
+        "neoforge": "21.1.128"
     },
     "projects": [
         {
