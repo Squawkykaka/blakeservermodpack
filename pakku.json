@@ -8,5 +8,10 @@
     "paths": {
         "data_packs": "kubejs/data",
         "resource_packs": "kubejs/assets"
+    },
+    "projects": {
+        "probejs": {
+            "export": false
+        }
     }
 }
