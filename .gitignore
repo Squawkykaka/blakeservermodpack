@@ -30,8 +30,6 @@ resourcepacks/
 /node_modules/
 /cache
 /kubejs/data
-/kubejs/assets
-
 
 patchouli_data.json
 emi.json

@@ -13,6 +13,6 @@ ServerEvents.recipes(event => {
     })
 
     event.forEachRecipe({input: 'waystones:warp_stone'}, recipe => {
-        recipe.replaceIngredient("minecraft:obsidian", "minecraft:stone_bricks")
+        recipe.replaceInput("minecraft:obsidian", "minecraft:polished_andesite")
     })
 })
