@@ -71,11 +71,12 @@ RecipeViewerEvents.groupEntries("item", event => {
     event.group('/pressure_plate/', "kubejs:pressure_plates", "Pressure Plates")
     event.group('#minecraft:planks', "kubejs:planks", "Planks")
     event.group('#minecraft:logs', 'kubejs:logs', 'Logs')
+    event.group(['minecraft:large_amethyst_bud', 'minecraft:amethyst_cluster', 'minecraft:small_amethyst_bud', 'minecraft:medium_amethyst_bud'], "kubejs:amethyst", "Amethyst")
 
     event.group(['minecraft:cut_copper', 'minecraft:copper_block', 'minecraft:chiseled_copper', 'minecraft:cut_copper_stairs', 'minecraft:cut_copper_slab', 'minecraft:waxed_copper_block', 'minecraft:waxed_chiseled_copper', 'minecraft:waxed_cut_copper', 'minecraft:waxed_cut_copper_stairs', 'minecraft:waxed_cut_copper_slab', 'minecraft:waxed_copper_grate', 'minecraft:copper_grate', 'minecraft:waxed_copper_trapdoor', 'minecraft:copper_trapdoor', 'minecraft:waxed_copper_door', 'minecraft:copper_door', 'minecraft:copper_bulb', 'minecraft:waxed_copper_bulb'], "kubejs:copper", "Copper")
 })
 
 RecipeViewerEvents.removeEntries("item", event => {
     // Remove creative items
-    event.remove(["knowledge_book", "debug_stick", "light", "barrier", "command_block", "command_block_minecart", "chain_command_block", "repeating_command_block", 'minecraft:structure_void', 'minecraft:structure_block', 'minecraft:jigsaw', 'minecraft:written_book', 'minecraft:petrified_oak_slab'])
+    event.remove(["knowledge_book", "debug_stick", "light", "barrier", "command_block", "command_block_minecart", "chain_command_block", "repeating_command_block", 'minecraft:structure_void', 'minecraft:structure_block', 'minecraft:jigsaw', 'minecraft:written_book', 'minecraft:petrified_oak_slab', 'lootr:lootr_chest', 'lootr:lootr_trapped_chest', 'lootr:lootr_inventory'])
 })
