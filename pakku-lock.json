@@ -573,6 +573,76 @@
             ]
         },
         {
+            "pakku_id": "h9MQ9beFmjFKgRbP",
+            "pakku_links": [
+                "KsCoMi6qKsEpSUNA"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "elytra-trims",
+                "modrinth": "elytra-trims"
+            },
+            "name": {
+                "curseforge": "Elytra Trims",
+                "modrinth": "Elytra Trims"
+            },
+            "id": {
+                "curseforge": "876199",
+                "modrinth": "XpzGz7KD"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "elytratrims-neoforge-3.5.8+1.21.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6196/569/elytratrims-neoforge-3.5.8+1.21.jar",
+                    "id": "6196569",
+                    "parent_id": "876199",
+                    "hashes": {
+                        "sha1": "25a1f60f92b499ff725e6e443b35386c8615026b",
+                        "md5": "1b987c72db4c24cbe5c5ae9d57a1df91"
+                    },
+                    "required_dependencies": [
+                        "351264"
+                    ],
+                    "size": 601582,
+                    "date_published": "2025-02-15T16:59:37.293Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "elytratrims-neoforge-3.5.8+1.21.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/XpzGz7KD/versions/IPqZJnhD/elytratrims-neoforge-3.5.8+1.21.jar",
+                    "id": "IPqZJnhD",
+                    "parent_id": "XpzGz7KD",
+                    "hashes": {
+                        "sha512": "25a1215d346ae4565c2206730eea3bf2b4bb0e68fa3e404f728b69fc4b3c3049e429d2a139b41afa4236b229256d60369816462a89b8d4ac47e5877bf175b53d",
+                        "sha1": "25a1f60f92b499ff725e6e443b35386c8615026b"
+                    },
+                    "required_dependencies": [
+                        "ordsPcFz"
+                    ],
+                    "size": 601582,
+                    "date_published": "2025-02-15T16:59:38.832786Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "Bn0hhYQOZV8dIs73",
             "type": "MOD",
             "side": "CLIENT",
@@ -989,6 +1059,78 @@
                     ],
                     "size": 297694,
                     "date_published": "2025-02-01T22:13:56.640277Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "KsCoMi6qKsEpSUNA",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "kotlin-for-forge",
+                "modrinth": "kotlin-for-forge"
+            },
+            "name": {
+                "curseforge": "Kotlin for Forge",
+                "modrinth": "Kotlin for Forge"
+            },
+            "id": {
+                "curseforge": "351264",
+                "modrinth": "ordsPcFz"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "kotlinforforge-5.7.0-all.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.4",
+                        "1.21.3",
+                        "1.21.1",
+                        "1.21.2"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5978/393/kotlinforforge-5.7.0-all.jar",
+                    "id": "5978393",
+                    "parent_id": "351264",
+                    "hashes": {
+                        "sha1": "f276d27f2930a44e7224080b5ccdcae4029b4d9a",
+                        "md5": "5a42c6824502f2f7b478efc47e52db2d"
+                    },
+                    "required_dependencies": [],
+                    "size": 6384471,
+                    "date_published": "2024-12-09T21:57:28.627Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "kotlinforforge-5.7.0-all.jar",
+                    "mc_versions": [
+                        "1.20.6",
+                        "1.21",
+                        "1.21.1",
+                        "1.21.2",
+                        "1.21.3",
+                        "1.21.4"
+                    ],
+                    "loaders": [
+                        "forge",
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/ordsPcFz/versions/uZAwdzAR/kotlinforforge-5.7.0-all.jar",
+                    "id": "uZAwdzAR",
+                    "parent_id": "ordsPcFz",
+                    "hashes": {
+                        "sha512": "69a93049bd22632c96702a550378f742b83b085a18049af5d1c9f9e79b5cc8e9792de512d6bc3cd9b33bde8ea378008db749970dd05da7769a7a90aebd4aab35",
+                        "sha1": "f276d27f2930a44e7224080b5ccdcae4029b4d9a"
+                    },
+                    "required_dependencies": [],
+                    "size": 6384471,
+                    "date_published": "2024-12-09T21:59:12.955246Z"
                 }
             ]
         },
@@ -2248,6 +2390,74 @@
                     "required_dependencies": [],
                     "size": 2217959,
                     "date_published": "2024-06-29T20:41:44.190Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "ZsJSUkHjKiSjpTlI",
+            "type": "MOD",
+            "side": "SERVER",
+            "slug": {
+                "curseforge": "e4mc",
+                "modrinth": "e4mc"
+            },
+            "name": {
+                "curseforge": "e4mc",
+                "modrinth": "e4mc"
+            },
+            "id": {
+                "curseforge": "849519",
+                "modrinth": "qANg5Jrr"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "e4mc_minecraft-neoforge-5.3.0.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6224/394/e4mc_minecraft-neoforge-5.3.0.jar",
+                    "id": "6224394",
+                    "parent_id": "849519",
+                    "hashes": {
+                        "sha1": "0d0f8ba104b62b85c1f9bf5052a8f9eab51dc3bc",
+                        "md5": "13e6c123a506797892b5541d25c42733"
+                    },
+                    "required_dependencies": [],
+                    "size": 622834,
+                    "date_published": "2025-02-23T06:06:37.670Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "e4mc_minecraft-neoforge-5.3.0.jar",
+                    "mc_versions": [
+                        "1.20.2",
+                        "1.20.3",
+                        "1.20.4",
+                        "1.20.5",
+                        "1.20.6",
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/qANg5Jrr/versions/TgCDc1rC/e4mc_minecraft-neoforge-5.3.0.jar",
+                    "id": "TgCDc1rC",
+                    "parent_id": "qANg5Jrr",
+                    "hashes": {
+                        "sha512": "ce882c5c57e4abbe2073326c48ec0daba68001d31df842d8a121b36c25dcd69b85d77caf5e6d35b7b2333cba7c9094800f9f0baec9733f2ccdb0401af1aac6db",
+                        "sha1": "0d0f8ba104b62b85c1f9bf5052a8f9eab51dc3bc"
+                    },
+                    "required_dependencies": [],
+                    "size": 622834,
+                    "date_published": "2025-02-23T06:06:36.905217Z"
                 }
             ]
         },
