@@ -573,6 +573,69 @@
             ]
         },
         {
+            "pakku_id": "bCeDy4jq0qM9jNfN",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "corpse",
+                "modrinth": "corpse"
+            },
+            "name": {
+                "curseforge": "Corpse",
+                "modrinth": "Corpse"
+            },
+            "id": {
+                "curseforge": "316582",
+                "modrinth": "WrpuIfhw"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "corpse-neoforge-1.21.1-1.1.5.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/6121/250/corpse-neoforge-1.21.1-1.1.5.jar",
+                    "id": "6121250",
+                    "parent_id": "316582",
+                    "hashes": {
+                        "sha1": "eee4c18652d5fae712c4d4268957214b5d418972",
+                        "md5": "89dac22ab7d7cd1fd87fb3f7d0eefb89"
+                    },
+                    "required_dependencies": [],
+                    "size": 246394,
+                    "date_published": "2025-01-24T21:55:52.180Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "corpse-neoforge-1.21.1-1.1.5.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://cdn.modrinth.com/data/WrpuIfhw/versions/IxJeLN2e/corpse-neoforge-1.21.1-1.1.5.jar",
+                    "id": "IxJeLN2e",
+                    "parent_id": "WrpuIfhw",
+                    "hashes": {
+                        "sha512": "45b99f24a224d31b20258028b52ca0a29ca315a6fa1dc658e7d43f5be3d08426b77ff63c6683f7ece34d09759745009c406e31601bce415a73897d6f4a7d2322",
+                        "sha1": "6e94c176df2ddaa76651333daf5733ffb7bd5d27"
+                    },
+                    "required_dependencies": [],
+                    "size": 246394,
+                    "date_published": "2025-01-24T21:56:01.343706Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "h9MQ9beFmjFKgRbP",
             "pakku_links": [
                 "KsCoMi6qKsEpSUNA"
@@ -993,6 +1056,158 @@
             ]
         },
         {
+            "pakku_id": "MYRfRRbQUuPihaDB",
+            "pakku_links": [
+                "sHD4Gy7ns08X8qQX"
+            ],
+            "type": "MOD",
+            "side": "SERVER",
+            "slug": {
+                "curseforge": "just-mob-heads",
+                "modrinth": "just-mob-heads"
+            },
+            "name": {
+                "curseforge": "Just Mob Heads",
+                "modrinth": "Just Mob Heads"
+            },
+            "id": {
+                "curseforge": "293320",
+                "modrinth": "jzTUm9hE"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "justmobheads-1.21.1-8.5.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "neoforge",
+                        "forge",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6185/639/justmobheads-1.21.1-8.5.jar",
+                    "id": "6185639",
+                    "parent_id": "293320",
+                    "hashes": {
+                        "sha1": "fd57b8fd4fcf2f3ae3d3713e6347ce4f7e7585a4",
+                        "md5": "1545b5a89222ac06b09c4a8007ab926b"
+                    },
+                    "required_dependencies": [
+                        "342584"
+                    ],
+                    "size": 157707,
+                    "date_published": "2025-02-12T15:36:00.377Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "justmobheads-1.21.1-8.5.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "forge",
+                        "neoforge",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/jzTUm9hE/versions/tVPeAVbm/justmobheads-1.21.1-8.5.jar",
+                    "id": "tVPeAVbm",
+                    "parent_id": "jzTUm9hE",
+                    "hashes": {
+                        "sha512": "3761dfc4bc5865b40ee6db6661752cd97f01fd7aa48766da586c3689d70f08cb5adb6b871db9c4a3e76626b9d7efcec62fcad4082b69e070913ac37220cf7d68",
+                        "sha1": "fd57b8fd4fcf2f3ae3d3713e6347ce4f7e7585a4"
+                    },
+                    "required_dependencies": [
+                        "e0M1UDsY"
+                    ],
+                    "size": 157707,
+                    "date_published": "2025-02-12T15:36:12.541309Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "d90ZKPQMnU4bGkMT",
+            "pakku_links": [
+                "sHD4Gy7ns08X8qQX"
+            ],
+            "type": "MOD",
+            "side": "SERVER",
+            "slug": {
+                "curseforge": "just-player-heads",
+                "modrinth": "just-player-heads"
+            },
+            "name": {
+                "curseforge": "Just Player Heads",
+                "modrinth": "Just Player Heads"
+            },
+            "id": {
+                "curseforge": "303441",
+                "modrinth": "YdVBZMNR"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "justplayerheads-1.21.1-4.2.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "neoforge",
+                        "forge",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6185/626/justplayerheads-1.21.1-4.2.jar",
+                    "id": "6185626",
+                    "parent_id": "303441",
+                    "hashes": {
+                        "sha1": "830ef0cd60b5b2176e4e68a2caf10ea62bcf12e1",
+                        "md5": "cf9cd5bc659e1e5c7d3fe98b061ef0ab"
+                    },
+                    "required_dependencies": [
+                        "342584"
+                    ],
+                    "size": 46384,
+                    "date_published": "2025-02-12T15:33:16.190Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "justplayerheads-1.21.1-4.2.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "forge",
+                        "neoforge",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/YdVBZMNR/versions/Bhim3m1a/justplayerheads-1.21.1-4.2.jar",
+                    "id": "Bhim3m1a",
+                    "parent_id": "YdVBZMNR",
+                    "hashes": {
+                        "sha512": "951d13434f8b8b0a349aa07a8802f57722babc9aa6a348e119d7ae58a70236f82d3ef5e2d2dbf78a9a0cc12ad9430d98a15444bc37463a3ef06dd1a0911f1fc8",
+                        "sha1": "830ef0cd60b5b2176e4e68a2caf10ea62bcf12e1"
+                    },
+                    "required_dependencies": [
+                        "e0M1UDsY"
+                    ],
+                    "size": 46384,
+                    "date_published": "2025-02-12T15:33:28.029909Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "IlANxxY9nZNp1uQb",
             "pakku_links": [
                 "XD48rt3LVwyIj5KA"
@@ -1325,6 +1540,69 @@
                     "required_dependencies": [],
                     "size": 559632,
                     "date_published": "2025-03-06T02:41:24.887773Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "GnCFoHnF35wuPqUP",
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "mafglib",
+                "modrinth": "mafglib"
+            },
+            "name": {
+                "curseforge": "MaFgLib",
+                "modrinth": "MaFgLib"
+            },
+            "id": {
+                "curseforge": "910766",
+                "modrinth": "SKI34J7B"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "MaFgLib-0.2.10-mc1.21.1.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "alpha",
+                    "url": "https://edge.forgecdn.net/files/6283/570/MaFgLib-0.2.10-mc1.21.1.jar",
+                    "id": "6283570",
+                    "parent_id": "910766",
+                    "hashes": {
+                        "sha1": "2ab206cb09f2e4ad0580ee2df19ede6ee892f7ed",
+                        "md5": "092bd3c2e0f31ebe958859eb750d121c"
+                    },
+                    "required_dependencies": [],
+                    "size": 1040700,
+                    "date_published": "2025-03-09T11:20:00.757Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "MaFgLib-0.2.10-mc1.21.1.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "alpha",
+                    "url": "https://cdn.modrinth.com/data/SKI34J7B/versions/A25kdDT1/MaFgLib-0.2.10-mc1.21.1.jar",
+                    "id": "A25kdDT1",
+                    "parent_id": "SKI34J7B",
+                    "hashes": {
+                        "sha512": "2674814de702905b6129b3cc668f9e47d736b6cd9a165c17bef1feb906808f1539c3c015d0a36d435486223e6fdd6a22500230376955230c7ad6b56a4c3d6b06",
+                        "sha1": "2ab206cb09f2e4ad0580ee2df19ede6ee892f7ed"
+                    },
+                    "required_dependencies": [],
+                    "size": 1040700,
+                    "date_published": "2025-03-09T11:20:08.174712Z"
                 }
             ]
         },
@@ -2012,6 +2290,69 @@
             ]
         },
         {
+            "pakku_id": "cvFgLsGEAz5FIswR",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "simple-voice-chat",
+                "modrinth": "simple-voice-chat"
+            },
+            "name": {
+                "curseforge": "Simple Voice Chat",
+                "modrinth": "Simple Voice Chat"
+            },
+            "id": {
+                "curseforge": "416089",
+                "modrinth": "9eGKb6K1"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "voicechat-neoforge-1.21.1-2.5.28.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/6239/667/voicechat-neoforge-1.21.1-2.5.28.jar",
+                    "id": "6239667",
+                    "parent_id": "416089",
+                    "hashes": {
+                        "sha1": "cce9eb7b21777c4a14bb619f9c5fecaf723d2e03",
+                        "md5": "eff65aed80a710d83949473a86505c88"
+                    },
+                    "required_dependencies": [],
+                    "size": 6142856,
+                    "date_published": "2025-02-26T15:13:46.663Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "voicechat-neoforge-1.21.1-2.5.28.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/YTRNLDqy/voicechat-neoforge-1.21.1-2.5.28.jar",
+                    "id": "YTRNLDqy",
+                    "parent_id": "9eGKb6K1",
+                    "hashes": {
+                        "sha512": "d5bd8603e2d93fa7c404a9c2dc2d7f7315d48541646196b9e6aa4145d1229d726a204012291aafdd489f473c941e0c352d549a48f2a3b66513f4d6093d6b585c",
+                        "sha1": "96d2477f3795fded69c357208782aad516ba360c"
+                    },
+                    "required_dependencies": [],
+                    "size": 6142856,
+                    "date_published": "2025-02-26T15:14:11.384039Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "s3UBjtYd385Mp2sj",
             "type": "MOD",
             "side": "CLIENT",
@@ -2179,6 +2520,76 @@
                     "required_dependencies": [],
                     "size": 56252,
                     "date_published": "2024-12-13T21:14:48.425965Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "WNxADIpWdHg7yUD3",
+            "pakku_links": [
+                "GnCFoHnF35wuPqUP"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "tweakerge",
+                "modrinth": "tweakerge"
+            },
+            "name": {
+                "curseforge": "Tweakerge",
+                "modrinth": "Tweakerge"
+            },
+            "id": {
+                "curseforge": "915857",
+                "modrinth": "yke6wdGF"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "Tweakerge-0.2.3-mc1.21.1.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "alpha",
+                    "url": "https://edge.forgecdn.net/files/6255/203/Tweakerge-0.2.3-mc1.21.1.jar",
+                    "id": "6255203",
+                    "parent_id": "915857",
+                    "hashes": {
+                        "sha1": "c8c1191fcbfe6ab84da56549b03cf5a6e0393c65",
+                        "md5": "7fba9f0009ca87b2d611fd9e804e3dc5"
+                    },
+                    "required_dependencies": [
+                        "910766"
+                    ],
+                    "size": 589294,
+                    "date_published": "2025-03-02T11:04:59.820Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "Tweakerge-0.2.3-mc1.21.1.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "alpha",
+                    "url": "https://cdn.modrinth.com/data/yke6wdGF/versions/ZQSsunhu/Tweakerge-0.2.3-mc1.21.1.jar",
+                    "id": "ZQSsunhu",
+                    "parent_id": "yke6wdGF",
+                    "hashes": {
+                        "sha512": "5e879e7542c909509e30c712064d6fdfe336cf029c43c77c778e3e5f13e88e243b598b392f26f6683ff50eb9586c33e86002859dc1d50349c99d8815625be4e1",
+                        "sha1": "c8c1191fcbfe6ab84da56549b03cf5a6e0393c65"
+                    },
+                    "required_dependencies": [
+                        "SKI34J7B"
+                    ],
+                    "size": 589294,
+                    "date_published": "2025-03-02T11:05:05.767932Z"
                 }
             ]
         },
