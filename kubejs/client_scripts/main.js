@@ -78,5 +78,5 @@ RecipeViewerEvents.groupEntries("item", event => {
 
 RecipeViewerEvents.removeEntries("item", event => {
     // Remove creative items
-    event.remove(["knowledge_book", "debug_stick", "light", "barrier", "command_block", "command_block_minecart", "chain_command_block", "repeating_command_block", 'minecraft:structure_void', 'minecraft:structure_block', 'minecraft:jigsaw', 'minecraft:written_book', 'minecraft:petrified_oak_slab', 'lootr:lootr_chest', 'lootr:lootr_trapped_chest', 'lootr:lootr_inventory'])
+    event.remove(['lootr:lootr_barrel', 'lootr:lootr_shulker', "knowledge_book", "debug_stick", "light", "barrier", "command_block", "command_block_minecart", "chain_command_block", "repeating_command_block", 'minecraft:structure_void', 'minecraft:structure_block', 'minecraft:jigsaw', 'minecraft:written_book', 'minecraft:petrified_oak_slab', 'lootr:lootr_chest', 'lootr:lootr_trapped_chest', 'lootr:lootr_inventory'])
 })
