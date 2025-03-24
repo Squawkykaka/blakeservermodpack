@@ -89,7 +89,7 @@
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "balm-neoforge-1.21.1-21.0.31.jar",
+                    "file_name": "balm-neoforge-1.21.1-21.0.35.jar",
                     "mc_versions": [
                         "1.21",
                         "1.21.1"
@@ -98,16 +98,16 @@
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/6224/887/balm-neoforge-1.21.1-21.0.31.jar",
-                    "id": "6224887",
+                    "url": "https://edge.forgecdn.net/files/6336/371/balm-neoforge-1.21.1-21.0.35.jar",
+                    "id": "6336371",
                     "parent_id": "531761",
                     "hashes": {
-                        "sha1": "a6ed48bf81f87cd89a5c6c2922345bdc3f679f07",
-                        "md5": "0aa19f6e8835de957a7fd8e92250ed78"
+                        "sha1": "15648921510789d4cb3308ef46f6b8770323e3a8",
+                        "md5": "0c1cebe77a36f88bf825f67c5d7c0197"
                     },
                     "required_dependencies": [],
-                    "size": 434486,
-                    "date_published": "2025-02-23T10:08:38.993Z"
+                    "size": 465625,
+                    "date_published": "2025-03-23T18:00:02.177Z"
                 },
                 {
                     "type": "modrinth",
@@ -422,7 +422,7 @@
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "c2me-neoforge-mc1.21.1-0.3.0+alpha.0.58.jar",
+                    "file_name": "c2me-neoforge-mc1.21.1-0.3.0+alpha.0.60.jar",
                     "mc_versions": [
                         "1.21.1"
                     ],
@@ -430,16 +430,16 @@
                         "neoforge"
                     ],
                     "release_type": "alpha",
-                    "url": "https://edge.forgecdn.net/files/6255/509/c2me-neoforge-mc1.21.1-0.3.0+alpha.0.58.jar",
-                    "id": "6255509",
+                    "url": "https://edge.forgecdn.net/files/6287/263/c2me-neoforge-mc1.21.1-0.3.0+alpha.0.60.jar",
+                    "id": "6287263",
                     "parent_id": "533097",
                     "hashes": {
-                        "sha1": "4a1d83152661f667549f5790f6bf8331f2d546a0",
-                        "md5": "19cd72791e499c0b1033e21f59fa4d42"
+                        "sha1": "7a08ce618a7df67453121859f06d5c9420ef14d1",
+                        "md5": "b4ed567900eb0a0e11ca3bd6c1a7fdf6"
                     },
                     "required_dependencies": [],
-                    "size": 4482592,
-                    "date_published": "2025-03-02T13:04:54.227Z"
+                    "size": 4482505,
+                    "date_published": "2025-03-10T06:34:37.427Z"
                 }
             ]
         },
@@ -845,7 +845,7 @@
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "flerovium-neoforge-1.21.1-1.0.2-all.jar",
+                    "file_name": "flerovium-neoforge-1.21.1-1.0.3-all.jar",
                     "mc_versions": [
                         "1.21.1"
                     ],
@@ -853,16 +853,16 @@
                         "neoforge"
                     ],
                     "release_type": "beta",
-                    "url": "https://edge.forgecdn.net/files/6258/259/flerovium-neoforge-1.21.1-1.0.2-all.jar",
-                    "id": "6258259",
+                    "url": "https://edge.forgecdn.net/files/6315/476/flerovium-neoforge-1.21.1-1.0.3-all.jar",
+                    "id": "6315476",
                     "parent_id": "1142875",
                     "hashes": {
-                        "sha1": "cf04b1c8e5bb935f80fb208aa963617779172d8c",
-                        "md5": "af00dc8e73e61aa529ed923cce138331"
+                        "sha1": "f5305e485ddb02e22f66cf481875bb10e0dd1def",
+                        "md5": "3f7564fefa6103e191afa6dcca54d994"
                     },
                     "required_dependencies": [],
-                    "size": 147548,
-                    "date_published": "2025-03-03T00:48:08.697Z"
+                    "size": 147517,
+                    "date_published": "2025-03-17T14:06:50.347Z"
                 }
             ]
         },
@@ -950,7 +950,7 @@
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "ImmediatelyFast-NeoForge-1.3.5+1.21.1.jar",
+                    "file_name": "ImmediatelyFast-NeoForge-1.6.2+1.21.1.jar",
                     "mc_versions": [
                         "1.21",
                         "1.21.1"
@@ -959,16 +959,16 @@
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/6236/703/ImmediatelyFast-NeoForge-1.3.5+1.21.1.jar",
-                    "id": "6236703",
+                    "url": "https://edge.forgecdn.net/files/6312/324/ImmediatelyFast-NeoForge-1.6.2+1.21.1.jar",
+                    "id": "6312324",
                     "parent_id": "686911",
                     "hashes": {
-                        "sha1": "12608622df71b28fcb6388290c36e74281ae8898",
-                        "md5": "fed05c924d27478eabf1a9db4ec7598f"
+                        "sha1": "e3fc6921d03bd67950560c4a1924c5799f7750a6",
+                        "md5": "50b21216a78233e0df57b99c1993a312"
                     },
                     "required_dependencies": [],
-                    "size": 263209,
-                    "date_published": "2025-02-25T21:50:06.997Z"
+                    "size": 256510,
+                    "date_published": "2025-03-16T17:21:27.880Z"
                 },
                 {
                     "type": "modrinth",
@@ -1013,7 +1013,7 @@
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "journeymap-neoforge-1.21.1-6.0.0-beta.39.jar",
+                    "file_name": "journeymap-neoforge-1.21.1-6.0.0-beta.41.jar",
                     "mc_versions": [
                         "1.21.1"
                     ],
@@ -1021,16 +1021,16 @@
                         "neoforge"
                     ],
                     "release_type": "beta",
-                    "url": "https://edge.forgecdn.net/files/6213/329/journeymap-neoforge-1.21.1-6.0.0-beta.39.jar",
-                    "id": "6213329",
+                    "url": "https://edge.forgecdn.net/files/6320/218/journeymap-neoforge-1.21.1-6.0.0-beta.41.jar",
+                    "id": "6320218",
                     "parent_id": "32274",
                     "hashes": {
-                        "sha1": "e8cf0041df3272a266a3153f258d50bbaed1cf16",
-                        "md5": "f69c96d55b16b5354cd24383341968af"
+                        "sha1": "9397b7b1f226cbfe8cd9d54ed54732d90543a6ac",
+                        "md5": "488af1841422548ba7c2915967ac33dc"
                     },
                     "required_dependencies": [],
-                    "size": 3382047,
-                    "date_published": "2025-02-20T13:49:46.810Z"
+                    "size": 3386215,
+                    "date_published": "2025-03-18T21:02:09.163Z"
                 },
                 {
                     "type": "modrinth",
@@ -1438,7 +1438,7 @@
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "lithium-neoforge-0.14.8+mc1.21.1.jar",
+                    "file_name": "lithium-neoforge-0.15.0+mc1.21.1.jar",
                     "mc_versions": [
                         "1.21.1"
                     ],
@@ -1446,16 +1446,16 @@
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/6211/589/lithium-neoforge-0.14.8+mc1.21.1.jar",
-                    "id": "6211589",
+                    "url": "https://edge.forgecdn.net/files/6290/413/lithium-neoforge-0.15.0+mc1.21.1.jar",
+                    "id": "6290413",
                     "parent_id": "360438",
                     "hashes": {
-                        "sha1": "d6bbbdae2d8e94551606c32e75fded04605811ee",
-                        "md5": "82577a86eb2591dd562eb82c7e68de38"
+                        "sha1": "584c5a8186938dd58e43ecde316253e8e38f6650",
+                        "md5": "429c693999fad17d6fe35f2aeea92b18"
                     },
                     "required_dependencies": [],
-                    "size": 739349,
-                    "date_published": "2025-02-20T00:24:03.417Z"
+                    "size": 747405,
+                    "date_published": "2025-03-10T23:26:11.287Z"
                 },
                 {
                     "type": "modrinth",
@@ -1499,7 +1499,7 @@
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "lootr-neoforge-1.21-1.10.35.89.jar",
+                    "file_name": "lootr-neoforge-1.21-1.10.35.90.jar",
                     "mc_versions": [
                         "1.21",
                         "1.21.1"
@@ -1508,16 +1508,16 @@
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/6269/605/lootr-neoforge-1.21-1.10.35.89.jar",
-                    "id": "6269605",
+                    "url": "https://edge.forgecdn.net/files/6294/335/lootr-neoforge-1.21-1.10.35.90.jar",
+                    "id": "6294335",
                     "parent_id": "361276",
                     "hashes": {
-                        "sha1": "dad0ec8623777304e447f502a420e929764d3c78",
-                        "md5": "2fd0751c40482907eafd37c29ec6f354"
+                        "sha1": "f93463f444296f18e6ba1bd96e6b6e94de33cd2e",
+                        "md5": "7975d003dd17d44528abfed1ddf3b9b2"
                     },
                     "required_dependencies": [],
-                    "size": 559632,
-                    "date_published": "2025-03-06T02:41:25.727Z"
+                    "size": 559635,
+                    "date_published": "2025-03-12T00:56:15.083Z"
                 },
                 {
                     "type": "modrinth",
@@ -1689,7 +1689,7 @@
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "moreculling-neoforge-1.21.1-1.0.4.jar",
+                    "file_name": "moreculling-neoforge-1.21.1-1.0.6.jar",
                     "mc_versions": [
                         "1.21.1"
                     ],
@@ -1697,18 +1697,18 @@
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/6175/421/moreculling-neoforge-1.21.1-1.0.4.jar",
-                    "id": "6175421",
+                    "url": "https://edge.forgecdn.net/files/6292/880/moreculling-neoforge-1.21.1-1.0.6.jar",
+                    "id": "6292880",
                     "parent_id": "630104",
                     "hashes": {
-                        "sha1": "293b09c4205cfe882aadd296a25828f8f8e91549",
-                        "md5": "1de7c818842425fae45929e874d3f44c"
+                        "sha1": "f6f43344e0622ac05ad7aca5378ec35aad31ac30",
+                        "md5": "d6021cd3f5644831db8cdcbaf23a4c9b"
                     },
                     "required_dependencies": [
                         "348521"
                     ],
-                    "size": 340853,
-                    "date_published": "2025-02-09T16:52:06.547Z"
+                    "size": 342982,
+                    "date_published": "2025-03-11T17:25:36.660Z"
                 },
                 {
                     "type": "modrinth",
@@ -2691,7 +2691,7 @@
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "waystones-neoforge-1.21.1-21.1.11.jar",
+                    "file_name": "waystones-neoforge-1.21.1-21.1.13.jar",
                     "mc_versions": [
                         "1.21",
                         "1.21.1"
@@ -2700,18 +2700,18 @@
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/6225/72/waystones-neoforge-1.21.1-21.1.11.jar",
-                    "id": "6225072",
+                    "url": "https://edge.forgecdn.net/files/6307/815/waystones-neoforge-1.21.1-21.1.13.jar",
+                    "id": "6307815",
                     "parent_id": "245755",
                     "hashes": {
-                        "sha1": "62838b4fb10e2e2d224a1fe23426c461508169ea",
-                        "md5": "2ca53d673bdcea391e0e631f539ca4ab"
+                        "sha1": "10e4094729d5640b0fcc39ec0982462dafbe3f2e",
+                        "md5": "a2b5bfa882f3c212f3cc1fed80242004"
                     },
                     "required_dependencies": [
                         "531761"
                     ],
-                    "size": 837748,
-                    "date_published": "2025-02-23T10:46:11.003Z"
+                    "size": 838021,
+                    "date_published": "2025-03-15T17:13:41.847Z"
                 },
                 {
                     "type": "modrinth",
@@ -2801,6 +2801,64 @@
                     "required_dependencies": [],
                     "size": 2217959,
                     "date_published": "2024-06-29T20:41:44.190Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "KN5dzzUui6QxP4Oi",
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "modrinth": "weaponmaster"
+            },
+            "name": {
+                "modrinth": "YDM's Weapon Master"
+            },
+            "id": {
+                "modrinth": "qi1sj2da"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "weaponmaster_ydm-neoforge-1.21-4.2.5.jar",
+                    "mc_versions": [
+                        "1.21"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5507/810/weaponmaster_ydm-neoforge-1.21-4.2.5.jar",
+                    "id": "5507810",
+                    "parent_id": "608235",
+                    "hashes": {
+                        "sha1": "277c6036e395252b8dc9b9a8b0adc047d8a9c554",
+                        "md5": "4b86d313a135db949dd935edd17404ff"
+                    },
+                    "required_dependencies": [],
+                    "size": 345532,
+                    "date_published": "2024-07-06T15:24:08.263Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "weaponmaster_ydm-neoforge-1.21-4.2.5.jar",
+                    "mc_versions": [
+                        "1.21"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/qi1sj2da/versions/aTmIxqzV/weaponmaster_ydm-neoforge-1.21-4.2.5.jar",
+                    "id": "aTmIxqzV",
+                    "parent_id": "qi1sj2da",
+                    "hashes": {
+                        "sha512": "4b232886b6c20431505130b612781f557d05c024504aeeae7f9befea2e32e5dcbfd9b7ebbdbc6428ab5972b39443399d1fb74fd0545d1a840d2afd49751f4762",
+                        "sha1": "277c6036e395252b8dc9b9a8b0adc047d8a9c554"
+                    },
+                    "required_dependencies": [],
+                    "size": 345532,
+                    "date_published": "2024-07-06T15:25:06.591503Z"
                 }
             ]
         },
