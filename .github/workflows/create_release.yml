@@ -22,7 +22,7 @@ jobs:
 
       - name: Setup pakku
         run: |
-          wget https://github.com/juraj-hrivnak/Pakku/releases/download/v0.26.0/pakku.jar
+          wget https://github.com/juraj-hrivnak/Pakku/releases/download/v0.21.0/pakku.jar
 
       - name: Export modpack
         run: java -jar pakku.jar export
