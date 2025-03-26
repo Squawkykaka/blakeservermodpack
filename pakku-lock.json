@@ -134,19 +134,16 @@
             ]
         },
         {
-            "pakku_id": "rJ5NrzoiRbVmrnSF",
+            "pakku_id": "Y4LVNPeealF8puVF",
             "type": "MOD",
             "side": "CLIENT",
             "slug": {
-                "curseforge": "boat-item-view",
                 "modrinth": "boat-item-view"
             },
             "name": {
-                "curseforge": "Boat Item View",
                 "modrinth": "Boat Item View"
             },
             "id": {
-                "curseforge": "482160",
                 "modrinth": "BdKIyOLe"
             },
             "files": [
@@ -2066,23 +2063,19 @@
             ]
         },
         {
-            "pakku_id": "L5eNlhv1dSxydpxr",
+            "pakku_id": "svONHHP8JJlt50ZU",
             "pakku_links": [
                 "SgRD0lAsLZg8JC1X"
             ],
             "type": "MOD",
-            "side": "CLIENT",
             "slug": {
-                "curseforge": "probejs",
-                "modrinth": "probejs"
+                "curseforge": "probejs"
             },
             "name": {
-                "curseforge": "ProbeJS",
-                "modrinth": "ProbeJS"
+                "curseforge": "ProbeJS"
             },
             "id": {
-                "curseforge": "585406",
-                "modrinth": "JJNYRb4B"
+                "curseforge": "585406"
             },
             "files": [
                 {
