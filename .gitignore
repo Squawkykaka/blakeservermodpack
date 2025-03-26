@@ -30,6 +30,7 @@ resourcepacks/
 /node_modules/
 /cache
 /kubejs/data
+spark-modernfix/
 
 patchouli_data.json
 emi.json
