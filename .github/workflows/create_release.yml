@@ -22,7 +22,12 @@ jobs:
 
       - name: Setup pakku
         run: |
-          wget https://github.com/juraj-hrivnak/Pakku/releases/download/v0.26.0/pakku.jar
+          wget https://github.com/juraj-hrivnak/Pakku/releases/download/v1.0.0/pakku.jar
+
+      - name: Set pakku credentials
+        run: java -jar pakku.jar credentials set --cf-api-key ${cf_api_key}
+        env: # Or as an environment variable
+          cf_api_key: ${{ secrets.CURSEFORGE_API_KEY }}
 
       - name: Export modpack
         run: java -jar pakku.jar export
