@@ -2077,6 +2077,7 @@
             "id": {
                 "curseforge": "585406"
             },
+            "export": false,
             "files": [
                 {
                     "type": "curseforge",
@@ -2218,6 +2219,69 @@
                     ],
                     "size": 2384445,
                     "date_published": "2025-02-16T11:52:49.583980Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "3RxaHIxxbjSHPrwv",
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "scribble",
+                "modrinth": "scribble"
+            },
+            "name": {
+                "curseforge": "Scribble",
+                "modrinth": "Scribble"
+            },
+            "id": {
+                "curseforge": "1051344",
+                "modrinth": "yXAvIk0x"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "Scribble-1.5.1+mc1.21-neoforge.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6240/188/Scribble-1.5.1+mc1.21-neoforge.jar",
+                    "id": "6240188",
+                    "parent_id": "1051344",
+                    "hashes": {
+                        "sha1": "e713547a837a80791f76fa92f21fc1ba41b6759e",
+                        "md5": "f035ad9935737df5b8e502c3a3eaf1d7"
+                    },
+                    "required_dependencies": [],
+                    "size": 86944,
+                    "date_published": "2025-02-26T17:14:55.280Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "Scribble-1.5.1+mc1.21-neoforge.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/yXAvIk0x/versions/I0KbSlL9/Scribble-1.5.1+mc1.21-neoforge.jar",
+                    "id": "I0KbSlL9",
+                    "parent_id": "yXAvIk0x",
+                    "hashes": {
+                        "sha512": "94bfe8a3b6f763a4110b43d1f792b1da77b8fa995531a70f3132c8604c20f67621142c53ec63f54c5e09d9fd5c430643c4b67e3e4e3d564131dd7e2608dd243d",
+                        "sha1": "e713547a837a80791f76fa92f21fc1ba41b6759e"
+                    },
+                    "required_dependencies": [],
+                    "size": 86944,
+                    "date_published": "2025-02-26T17:14:54.949848Z"
                 }
             ]
         },
