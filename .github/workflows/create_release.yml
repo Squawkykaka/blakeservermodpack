@@ -32,16 +32,35 @@ jobs:
       - name: Export modpack
         run: java -jar pakku.jar export
 
+      # - uses: ncipollo/release-action@v1
+      #   with:
+      #     artifacts: "release.tar.gz,foo/*.txt"
+      #     bodyFile: "body.md"
+
+      # Unzip the build modpack files
+      - name: Extract serverpack
+        uses: ihiroky/extract-action@v1
+        with:
+          file_path: ./build/serverpack/Blake Server-0.0.1.zip
+          extract_dir: ./serverpack
+
+      - name: Extract curseforge
+        uses: ihiroky/extract-action@v1
+        with:
+          file_path: ./build/curseforge/Blake Server-0.0.1.zip
+          extract_dir: ./curseforge
+
+      # Upload the build artifacts
       - name: Upload Curseforge Build Artifact
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v4.6.2
         with:
           name: curseforge-artifact
-          path: ./build/curseforge/
+          path: ./curseforge/
           retention-days: 5
 
       - name: Upload Server Build Artifact
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v4.6.2
         with:
           name: server-artifact
-          path: ./build/serverpack/
+          path: ./serverpack/
           retention-days: 5
