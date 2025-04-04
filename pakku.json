@@ -1,6 +1,6 @@
 {
     "name": "Blake Server",
-    "version": "0.0.1",
+    "version": "dev",
     "overrides": [
         "config",
         "kubejs"
