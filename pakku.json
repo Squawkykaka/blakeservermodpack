@@ -12,6 +12,9 @@
     "projects": {
         "probejs": {
             "export": false
+        },
+        "flerovium": {
+            "side": "CLIENT"
         }
     }
 }
