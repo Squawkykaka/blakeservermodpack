@@ -15,6 +15,9 @@
         },
         "flerovium": {
             "side": "CLIENT"
+        },
+        "e4mc": {
+            "side": "CLIENT"
         }
     }
 }
